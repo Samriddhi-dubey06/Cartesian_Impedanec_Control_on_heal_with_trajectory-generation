@@ -75,6 +75,9 @@ Perfect for:
 - Co-manipulation  
 - Physical Human-Robot Interaction (pHRI)  
 - Assistive lifting tasks
-
 ---
+
+📽️ [Watch Demonstration Video on YouTube](https://youtu.be/1Zh8jDSsFWA?feature=shared)
+
+
 
